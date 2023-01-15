@@ -110,7 +110,7 @@ h4 a,
 h5 a,
 h6 a {
      color: #212121;
-     text-decoration: none!important;
+     text-decoration: none !important;
      opacity: 1
 }
 
@@ -155,7 +155,7 @@ img {
      height: auto;
 }
 
- :focus {
+:focus {
      outline: 0;
 }
 
@@ -394,7 +394,7 @@ ul.btn li:last-child {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/banner.jpg);
+     background: url(../images/pianoforte.jpg);
      background-repeat: no-repeat;
      min-height: 840px;
      background-size: 100% 100%;
@@ -419,7 +419,7 @@ ul.btn li:last-child {
 
 .text-bg p {
      font-size: 17px;
-     color: #fff;
+     color: #fec800;
      line-height: 28px;
      font-weight: 500;
      padding-bottom: 50px;
@@ -1029,4 +1029,3 @@ ul.link li a::after {
 .products_page .product .titlepage {
      margin-top: 70px;
 }
-
